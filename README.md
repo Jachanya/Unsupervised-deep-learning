@@ -10,7 +10,7 @@ This repository contains implementations of five influential research papers in 
 - Link: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
 ### Implementation
-- Directory: `attention_is_all_you_need`
+- Directory: `transformerLanguageModel`
 - Description: This implementation focuses on the Transformer model, which eliminates the need for recurrence in sequence modeling tasks through the use of self-attention mechanisms.
 
 ## 2. PixelCNN
